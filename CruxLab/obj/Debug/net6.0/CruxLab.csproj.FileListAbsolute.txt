@@ -1,0 +1,15 @@
+C:\Users\Sevastian\source\repos\CruxLab\CruxLab\bin\Debug\net6.0\CruxLab.exe
+C:\Users\Sevastian\source\repos\CruxLab\CruxLab\bin\Debug\net6.0\CruxLab.deps.json
+C:\Users\Sevastian\source\repos\CruxLab\CruxLab\bin\Debug\net6.0\CruxLab.runtimeconfig.json
+C:\Users\Sevastian\source\repos\CruxLab\CruxLab\bin\Debug\net6.0\CruxLab.dll
+C:\Users\Sevastian\source\repos\CruxLab\CruxLab\bin\Debug\net6.0\CruxLab.pdb
+C:\Users\Sevastian\source\repos\CruxLab\CruxLab\obj\Debug\net6.0\CruxLab.csproj.AssemblyReference.cache
+C:\Users\Sevastian\source\repos\CruxLab\CruxLab\obj\Debug\net6.0\CruxLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sevastian\source\repos\CruxLab\CruxLab\obj\Debug\net6.0\CruxLab.AssemblyInfoInputs.cache
+C:\Users\Sevastian\source\repos\CruxLab\CruxLab\obj\Debug\net6.0\CruxLab.AssemblyInfo.cs
+C:\Users\Sevastian\source\repos\CruxLab\CruxLab\obj\Debug\net6.0\CruxLab.csproj.CoreCompileInputs.cache
+C:\Users\Sevastian\source\repos\CruxLab\CruxLab\obj\Debug\net6.0\CruxLab.dll
+C:\Users\Sevastian\source\repos\CruxLab\CruxLab\obj\Debug\net6.0\refint\CruxLab.dll
+C:\Users\Sevastian\source\repos\CruxLab\CruxLab\obj\Debug\net6.0\CruxLab.pdb
+C:\Users\Sevastian\source\repos\CruxLab\CruxLab\obj\Debug\net6.0\CruxLab.genruntimeconfig.cache
+C:\Users\Sevastian\source\repos\CruxLab\CruxLab\obj\Debug\net6.0\ref\CruxLab.dll
